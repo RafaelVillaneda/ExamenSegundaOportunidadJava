@@ -298,7 +298,7 @@ public class Prueba {
 			    BellmanFord(graph, V1, E, 0); 
 				break;
 			case "4":
-				System.out.println("Algoritmo DIJKSTRA: https://github.com/jariasf/Online-Judges-Solutions/blob/master/Algorithms/JAVA/Graph%20Theory/DijkstraAlgorithm.java");
+				System.out.println("Algoritmo DIJKSTRA: https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-in-java-using-priorityqueue/");
 				System.out.println("Algoritmo FLOYD-WARSHAL: https://esacademic.com/dic.nsf/eswiki/604316#Forma_de_compilar_y_ejecutar");
 				System.out.println("Algoritmo BELLMAN-FORD: Anónimo. (15/05/2020). Algoritmo Bellman Ford (implementación simple). 18/12/2020, de geeksforgeeks Sitio web: https://www.geeksforgeeks.org/bellman-ford-algorithm-simple-implementation/");
 				System.out.println("Saliendo....");
